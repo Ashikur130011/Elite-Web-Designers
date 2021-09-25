@@ -1,0 +1,12 @@
+.programmer-id{
+    border: 1px solid red;
+    margin: 8px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 3px 5px 5px rgba(241, 67, 67, 0.541);
+}
+.programmer-image img{
+    border-radius: 250px;
+    width: 150px;
+    
+}
