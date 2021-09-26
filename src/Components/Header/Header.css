@@ -9,7 +9,7 @@
     margin-top: 0px;
     color: black;
 }
-span{
+.header span{
     color:hsl(0, 90%, 49%);
     border-bottom: 2px solid ;
 }
