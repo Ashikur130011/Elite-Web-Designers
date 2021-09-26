@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCoffee, faUserPlus } from '@fortawesome/free-solid-svg-icons';
+import { faUserPlus } from '@fortawesome/free-solid-svg-icons';
 import './Person.css'
 
 const Person = (props) => {
@@ -10,11 +10,17 @@ const Person = (props) => {
             <div className = "programmer-image">
                 <img src={picture} alt="Programmer image" />
             </div>
-            <div>
+            <div className ="card-text">
             <h1>{name}</h1>
             <h4>Address: {address}</h4>
-            <h3>Balance: ${balance}</h3>
-            <h5>Company: {company}</h5>
+            <div className="Salary">
+                <div>
+                <h4>Salary: <span>${balance}</span></h4>
+                </div>
+                <div>
+                <h4 className="company">Company:{company}</h4>
+                </div>
+            </div>
             <p>{email}</p>
             <h6>Phone: {phone}</h6>
             <button 

@@ -1,7 +1,9 @@
 import React from 'react';
 import './Cart.css';
+import img from "./Team-1000x500.jpg"
 
 const Cart = (props) => {
+    console.log(props.selectCart);
     const{selectCart} = props;
     let salary = 0;
 
@@ -9,10 +11,12 @@ const Cart = (props) => {
         salary = salary + programmer.balance;
     }
     return (
-        <div>
-            <h3>Programmer Selected: {props.selectCart.length}</h3>
-            <h2>{props.name}</h2>
-            <h3>Total Amount: ${salary}</h3>
+        <div className = "programmer-cart">
+            <img src= {img} alt="team-img" />
+            <h1>Selected Team</h1>
+            <h3>Programmer Selected: <span>{props.selectCart.length}</span></h3>
+            {props.selectCart.map(programmer=> <li>{programmer.name}</li>)}
+            <h2>Total Amount: <span>${salary}</span></h2>
         </div>
     );
 };

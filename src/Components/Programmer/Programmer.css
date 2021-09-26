@@ -1,18 +1,11 @@
 .programmer-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
+    background-color: white;
+    margin: 30px;
 }
 .programmers{
     display: grid;
+    grid-gap: 20px;
     grid-template-columns: repeat(3, 1fr);
-    margin: 5px;
-    
-}
-.programmer-cart{
-    position: fixed;
-    right: 5%;
-    background-color: rgb(240, 224, 224);
-    border: 2px solid red;
-    padding: 10px;
-
 }

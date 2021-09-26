@@ -1,22 +1,21 @@
 .programmer-id{
-    border: 1px solid red;
-    margin: 5px;
+    border: 1px solid rgb(10, 23, 209);
     padding: 5px;
-    border-radius: 5px;
-    box-shadow: 3px 5px 5px rgba(241, 67, 67, 0.541);
+    border-radius: 8px;
+    box-shadow: 5px 7px 5px rgba(79, 67, 241, 0.541);
 }
 .programmer-id:hover{
-    background-color: rgb(240, 224, 224);
+    background-color: #aad9ff;
 }
 .programmer-id h1{
-    border-top: 2px solid red;
+    border-top: 2px solid rgb(218, 33, 33);
     margin-top: 0px;
 }
 .programmer-image img{
-    width: 200px;
+    width: 150px;
     margin: 5px;
     border-radius: 100px;
-    border-bottom: 3px solid rgba(255, 0, 0, 0.829);
+    border-bottom: 5px solid rgba(29, 7, 226, 0.829);
 }
 .call-button{
     width: 100px;
@@ -29,4 +28,30 @@
 .call-button:hover{
     background-color: red;
     
+}
+.card-text p{
+    color: green;
+    font-weight: bold;
+}
+.card-text span{
+    color: red;
+}
+.card-text{
+    padding:0px;
+}
+h3{
+    margin: 4px;
+}
+h4{
+    margin: 5px;
+}
+h6{
+    margin: 4px;
+}
+p{
+    margin: 4px;
+}
+.Salary{
+    display: flex;
+    justify-content:space-evenly;
 }

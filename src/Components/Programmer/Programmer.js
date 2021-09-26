@@ -28,7 +28,7 @@ const Programmer = () => {
                     </Person>)
                 }
             </div>
-            <div className = "programmer-cart">
+            <div>
                 <Cart selectCart={selectCart}></Cart>
             </div>
         </div>

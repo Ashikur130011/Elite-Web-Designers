@@ -1,0 +1,25 @@
+.programmer-cart{
+    position: fixed;
+    right: 4%;
+    text-align: left;
+    background-color: #ffff;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 8px;
+    padding: 5px;
+    margin-top: 13px;
+    color: black;
+
+}
+.programmer-cart h1{
+    border-bottom: 3px dashed blue;
+    color: green;
+}
+.programmer-cart img{
+    width: 200px;
+}
+h3 span{
+    color:green;
+}
+span{
+    color:red;
+}
