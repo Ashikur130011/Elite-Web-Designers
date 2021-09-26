@@ -1,12 +1,32 @@
 .programmer-id{
     border: 1px solid red;
-    margin: 8px;
+    margin: 5px;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 3px 5px 5px rgba(241, 67, 67, 0.541);
 }
+.programmer-id:hover{
+    background-color: rgb(240, 224, 224);
+}
+.programmer-id h1{
+    border-top: 2px solid red;
+    margin-top: 0px;
+}
 .programmer-image img{
-    border-radius: 250px;
-    width: 150px;
+    width: 200px;
+    margin: 5px;
+    border-radius: 100px;
+    border-bottom: 3px solid rgba(255, 0, 0, 0.829);
+}
+.call-button{
+    width: 100px;
+    font-size: medium;
+    color: white;
+    border: 1px solid rgb(1, 24, 1);
+    background-color: rgb(2, 112, 2);
+    border-radius: 5px;
+}
+.call-button:hover{
+    background-color: red;
     
 }

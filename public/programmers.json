@@ -1,7 +1,7 @@
 [
     {
       "_id": "614f9258407abfed0618fc57",
-      "balance": "$3,009.21",
+      "balance": 3000,
       "picture": "https://www.upwork.com/profile-portraits/c13wrecag3zg_YqEl9aIbxmA8rRBf1vhBxEKoDtCrmBF4silJCGmhNJgWuCV--umwy",
       "age": 30,
       "eyeColor": "green",
@@ -14,7 +14,7 @@
     },
     {
       "_id": "614f9258ff05c100233e7cfc",
-      "balance": "$3,423.39",
+      "balance": 3100,
       "picture": "https://www.upwork.com/profile-portraits/c1xHFfQDQeqTWOMtmrhq4djoQxu5RzsCbQKk5IzCzRDgL-RR1LrPA4mrTtLFVEJw7r",
       "age": 32,
       "eyeColor": "brown",
@@ -27,7 +27,7 @@
     },
     {
       "_id": "614f9258703fa4f2776b1a07",
-      "balance": "$2,796.11",
+      "balance": 2700,
       "picture": "https://www.upwork.com/profile-portraits/c1QDcnTPEMxt5PvfbAUpHsmXveTjwo9yctSJkPQL6zNKEh-oxxrhD6s15qQY4eJouZ",
       "age": 29,
       "eyeColor": "brown",
@@ -40,7 +40,7 @@
     },
     {
       "_id": "614f92580bb5eceb363d07ae",
-      "balance": "$1,763.87",
+      "balance": 1700,
       "picture": "https://www.upwork.com/profile-portraits/c1tYRDTmA2Mwyc1nAOXtGJwDxf-LB0HAUKg5t2_TXCOGASp0O_DtboN7LZUoH-ivTy",
       "age": 24,
       "eyeColor": "green",
@@ -53,7 +53,7 @@
     },
     {
       "_id": "614f92588a2cd21d5c97f9f0",
-      "balance": "$3,873.64",
+      "balance": 3800,
       "picture": "https://www.upwork.com/profile-portraits/c1pnhEcjANsROPfjG99GUGI2BbCJ-2ctzw8ShO8M_cfETr0cXaU6AzeF4KTfmBkdOM",
       "age": 30,
       "eyeColor": "blue",
@@ -66,7 +66,7 @@
     },
     {
       "_id": "614f9258ce03d09ddd0b918b",
-      "balance": "$2,197.69",
+      "balance": 2200,
       "picture": "https://www.upwork.com/profile-portraits/c17s34C-TDyiQIznxWKtsicMnanFlbXk38aT3qngvWN_qAIn2XJZ3O5IgxT9Get9n4",
       "age": 21,
       "eyeColor": "green",
@@ -79,7 +79,7 @@
     },
     {
       "_id": "614f9258b414fd1e48a5a7e7",
-      "balance": "$3,626.40",
+      "balance": 3600,
       "picture": "https://www.upwork.com/profile-portraits/c1DBxuCdDveRSJOPPYhMf9swhEV1TMxA5yJRy1IRsWWP5dcK2HWGe95KasM9p9wOP3",
       "age": 31,
       "eyeColor": "blue",
@@ -92,7 +92,7 @@
     },
     {
       "_id": "614f9258d8d70c33220d0466",
-      "balance": "$3,007.24",
+      "balance": 3000,
       "picture": "https://www.upwork.com/profile-portraits/c1i_CNiRJCQ6EY3i_ON7tooHhWMenaJG9np5z-JCofNvCh0LpecIwFaB1ds2gMsA2D",
       "age": 22,
       "eyeColor": "brown",
@@ -105,7 +105,7 @@
     },
     {
       "_id": "614f925811e25039cd7c77fd",
-      "balance": "$1,097.74",
+      "balance": 1000,
       "picture": "https://www.upwork.com/profile-portraits/c1RU1fYSO8xRe0irpXdjwxIgzxxBTGt-BY96obaTdVVS0EnmSjCvWXETP6S5n0ff5Q",
       "age": 29,
       "eyeColor": "brown",
@@ -118,7 +118,7 @@
     },
     {
       "_id": "614f9258219b9cfb746d9c0c",
-      "balance": "$2,782.96",
+      "balance": 2700,
       "picture": "https://www.upwork.com/profile-portraits/c1Tm_6Pgq33YeT8boJpWKw_jff7xnH_oN4wYywZaxI8t_wA8xmLgz7LCvv2zqcCw27",
       "age": 36,
       "eyeColor": "brown",
@@ -131,7 +131,7 @@
     },
     {
       "_id": "614f9258cdc2dd1f0adb1fdf",
-      "balance": "$3,061.25",
+      "balance": 3000,
       "picture": "https://www.upwork.com/profile-portraits/c10xZgzMPRo-jYhsayd5HxeAQK41pIEX9gMyLaZskGXvHW_7A-Iny1yrktivXiE30e",
       "age": 24,
       "eyeColor": "brown",
@@ -144,7 +144,7 @@
     },
     {
       "_id": "614f92587ada0903e84cd822",
-      "balance": "$3,862.06",
+      "balance": 3800,
       "picture": "https://www.upwork.com/profile-portraits/c1K0mMtblD_UQ5NNc-3HbNWOOLQgsxVfFVdUxfHbWyQD8EqXMukrLM2F31R9fFvhoi",
       "age": 32,
       "eyeColor": "green",
@@ -157,7 +157,7 @@
     },
     {
       "_id": "614f9258a4ca3e9b85a78f4f",
-      "balance": "$3,724.59",
+      "balance": 3700,
       "picture": "https://www.upwork.com/profile-portraits/c1pOnNPpxRq46ZuPvGtSNjPbdlp9wQmNBc0BeZ-1JQykSw2Eq1UBoJhwrjZizW3QXA",
       "age": 38,
       "eyeColor": "blue",
@@ -170,7 +170,7 @@
     },
     {
       "_id": "614f9258dfba6153ed0e088c",
-      "balance": "$3,538.00",
+      "balance": 3500,
       "picture": "https://www.upwork.com/profile-portraits/c1_F91OMtf1G0JJPw-vgW2LV4PtF6CjuFH_VuGU2fRC_EVyoCsELPhz1_JvN9FhoEz",
       "age": 21,
       "eyeColor": "brown",
