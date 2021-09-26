@@ -3,7 +3,6 @@ import './Cart.css';
 import img from "./Team-1000x500.jpg"
 
 const Cart = (props) => {
-    console.log(props.selectCart);
     const{selectCart} = props;
     let salary = 0;
 
